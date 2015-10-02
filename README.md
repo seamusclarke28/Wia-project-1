@@ -1,24 +1,13 @@
-Blank Node.js IoT App
+WIA Project 1
 ============================
-The Blank Node.js sample application distributed within Intel® XDK IoT Edition under the Internet of Things  project creation option.
-
-Intel(R) XDK IoT Edition
--------------------------------------------
-This template is part of the Intel(R) XDK IoT Edition. 
-Download the Intel(R) XDK IoT Edition at https://software.intel.com/en-us/html5/xdk-iot. To see the technical details of the sample, 
-please visit the sample article page at https://software.intel.com/en-us/xdk/docs/intel-xdk-iot-edition-nodejs-templates.
+This is just a simple node.js application to send sensor data to WIA (wia.io)
 
 
-Important App Files
----------------------------
-* main.js
-* package.json
-* icon.png
-* README.md
+
 
 License Information Follows
 ---------------------------
-Copyright (c) 2014, Intel Corporation. All rights reserved.
+Copyright (c) 2015, Seamus Clarke
 
 Redistribution and use in source and binary forms, with or without modification, 
 are permitted provided that the following conditions are met:
@@ -30,7 +19,7 @@ are permitted provided that the following conditions are met:
   this list of conditions and the following disclaimer in the documentation 
   and/or other materials provided with the distribution.
 
-- Neither the name of Intel Corporation nor the names of its contributors 
+- Te name of its contributor
   may be used to endorse or promote products derived from this software 
   without specific prior written permission.
 
